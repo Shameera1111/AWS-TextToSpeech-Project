@@ -182,4 +182,5 @@ textarea:focus {
     white-space: nowrap;
     font-weight: bold;
     color: #d72660;
-    content: attr(data
+    content: attr(data-label);
+  }
